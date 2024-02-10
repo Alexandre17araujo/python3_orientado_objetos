@@ -5,7 +5,6 @@ class Controle:
         self.__mudar_canal_cima = mudar_canal_cima
         self.__mudar_canal_baixo = mudar_canal_baixo
 
-
     @property
     def menor_volume(self):
         return self.__menor_volume
